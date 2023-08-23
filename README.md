@@ -4,7 +4,7 @@
 
 # pip install opencv-python numpy 
 
-This coding python program is made for generating geometry images.
+# This coding python program is made for generating geometry images.
 
-It's a part of my graduation project.
+# It's a part of my graduation project.
 
